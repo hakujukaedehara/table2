@@ -61,7 +61,7 @@ var teamMembers = [
 
 ];
 
-function searchTeam() {
+function table() {
     var searchTerm = document.getElementById("searchInput").value.trim().toLowerCase();
     var resultDiv = document.getElementById("result");
     resultDiv.innerHTML = "";
