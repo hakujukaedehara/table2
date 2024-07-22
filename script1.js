@@ -6,7 +6,7 @@ var teamMembers = [
 "We are pleased to invite Ms. Vu Hong Ha to be seated at Table 1",
 "We are pleased to invite Ms. Bui Thi Thu to be seated at Table 1",
 "We are pleased to invite Mr. Nguyen Xuan Do to be seated at Table 1",
-"We are pleased to invite Mr. Nguyen Xuan Dung GDK to be seated at Table 2",
+"We are pleased to invite Mr. Nguyen Xuan Dung WB Head to be seated at Table 2",
 "We are pleased to invite Ms. Tran Thanh Hoa to be seated at Table 2",
 "We are pleased to invite Ms. Nguyen Thi Hong Nhung to be seated at Table 2",
 "We are pleased to invite Mr. Pham Tuan Anh to be seated at Table 2",
