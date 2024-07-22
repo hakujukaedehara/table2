@@ -17,11 +17,13 @@
                     background-color: rgb(2, 2, 96);
                     color: rgb(191, 157, 36);
                     text-align:center;
+                    text-decoration-thickness: 5px ;
                     font-size: 40px;
                     font-family: Arial;
                 }
                 
                 button {
+                    display: inline-block;
                     font-size: 100px;
                     background-color: rgb(191, 157, 36);
                     color:  rgb(2, 2, 96);
@@ -43,13 +45,15 @@
         <body>
             <img src="img/Remove-bg.ai_1721117121951.png" alt="vib logo" width="150">
             <h1>WB Business Conference H1.2024</h1>
-            <p>Table Arragement</p>
-            <p>Write your full name</p>
-            <div class="container">
-                <input type="text" id="searchInput" placeholder="ex: Pham Tu Quynh">
+            <p>Seating Arrangement</p>
+            <input type="text" id="searchInput" placeholder="ex: Nguyen Van Anh">
+            <br>
+            <br>
+            <br>
+            <div class="container"> 
                 <button onclick="table()">Submit</button>
                 <div id="result"></div>
             </div>
             <script src="script1.js"></script>
         </body>
-    </html>                              
+    </html>     
